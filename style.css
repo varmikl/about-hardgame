@@ -1,0 +1,196 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ma{
+    padding-left: 10px;
+}
+
+html{
+    width: 1920px;
+}
+header{
+    width: 1920px;
+}
+
+body{
+    margin: 0px;
+    width: 1920px;
+    padding: 0px;
+}
+
+.di{
+    margin: 0px;
+    background-color: black;
+    height: 50px;
+    line-height: 50px;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+}
+
+
+
+.nav-list li{
+    display: inline-block;
+    color: #ffffff;
+    margin: 0px;
+   
+    
+}
+
+a{
+    size: 35px  ;
+    text-decoration: none;
+    color: inherit;
+    padding: 10px;
+}
+
+.test{
+    color: rebeccapurple;
+}
+
+.died{
+    color: #8b0000;
+    font-size: 40px;
+    background-color: black;
+    width: 200px;
+}
+
+.center{
+    padding-left: 250px;
+}
+
+.font25{
+    font-size: 25px;
+}
+
+.font35{
+    font-size: 35px;
+}
+
+a:hover{
+    text-decoration: underline;
+
+
+   
+}
+.font20{
+    font-size: 20px;
+}
+
+.text{
+    font-size: 28px;
+    padding-bottom: 24px;
+    width: 1500px;
+    line-height: 25px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 800px;
+}
+td , th{
+    border: solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+td{
+    background-color: #b2b2b2;
+}
+.w100{
+    width: 50px;
+}
+
+.height{
+    height: 100px;
+}
+
+table{
+    width: 100%;
+    padding: -10px;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.leftside{
+    width: 700px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box ;
+    width: 1920px;
+    height: 638px;
+    border: solid black 1px;
+}
+
+.box2{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box ;
+    width: 1920px;
+    height: 638px;
+   
+    padding: 10px;
+}
+
+.box3{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box ;
+    width: 1900px;
+    height: 395px;
+   
+    padding: 10px;
+}
+
+.left{
+    width: 20%;
+  
+    border: solid black 1px;
+}
+
+.m{
+    width: 60%;
+ 
+    border: solid black 1px;
+}
+
+.right{
+
+    height: 449px;
+    width: 20%;
+    border: solid black 1px;
+
+}
+.l{
+    width: 30%;
+    padding: 10px;
+
+ }
+
+.m2{
+    width: 30%;
+    padding: 10px;
+ }
+
+.r{
+    width: 30%;
+    padding: 10px;
+ 
+ }
+
+ .fm20{
+    font-size: 20px;
+    margin: 0px;
+ }
+
+ .fm25{
+    font-size: 25px;
+    margin: 0px;
+ }
