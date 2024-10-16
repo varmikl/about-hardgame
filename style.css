@@ -74,15 +74,14 @@ a{
 a:hover{
     text-decoration: underline;
 
+}
+
 a:active{
     background-color: #414141;
 }
-    
-    
 
 
-   
-}
+
 .font20{
     font-size: 20px;
 }
