@@ -74,6 +74,12 @@ a{
 a:hover{
     text-decoration: underline;
 
+a:active{
+    background-color: #414141;
+}
+    
+    
+
 
    
 }
