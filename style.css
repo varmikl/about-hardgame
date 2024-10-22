@@ -23,7 +23,7 @@ body{
     margin: 0px;
     background-color: black;
     height: 50px;
-    line-height: 50px;
+    line-height: 50px; 
 }
 
 li{
@@ -155,7 +155,8 @@ table{
 }
 
 .footer{
- 
+    position: fixed;
+    bottom:0px;
     display: flex;
     justify-content:space-between ;
     box-sizing: border-box;
