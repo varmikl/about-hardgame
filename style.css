@@ -23,7 +23,7 @@ body{
     margin: 0px;
     background-color: black;
     height: 50px;
-    line-height: 50px;
+    line-height: 50px; 
 }
 
 li{
@@ -154,6 +154,22 @@ table{
     padding: 10px;
 }
 
+.footer{
+    position: fixed;
+    bottom:0px;
+    display: flex;
+    justify-content:space-between ;
+    box-sizing: border-box;
+    width: 1920px;
+    
+    background-color:black;
+}
+
+.lil{
+    background-color: solid black;
+    padding-left: 50px;
+}
+
 .left{
     width: 20%;
   
@@ -198,4 +214,9 @@ table{
  .fm25{
     font-size: 25px;
     margin: 0px;
+ }
+
+ #colchange {
+     transition: background-color 0.5s ease;
+     /* Плавний перехід кольору протягом 0.5 секунд */
  }
